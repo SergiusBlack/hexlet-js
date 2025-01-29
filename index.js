@@ -1,3 +1,3 @@
-import getTheLastElement from "./src/index.js";
+import getTheLastElement from './src/index.js';
 
 getTheLastElement();
